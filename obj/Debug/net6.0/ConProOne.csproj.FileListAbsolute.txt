@@ -1,0 +1,14 @@
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.exe
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.deps.json
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.runtimeconfig.json
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.dll
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.pdb
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfoInputs.cache
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfo.cs
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.csproj.CoreCompileInputs.cache
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.dll
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\refint\ConProOne.dll
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.pdb
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.genruntimeconfig.cache
+F:\mphasis\phase-4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ref\ConProOne.dll
